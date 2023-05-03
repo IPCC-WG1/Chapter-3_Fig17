@@ -1,5 +1,6 @@
 GLOBAL MONSOON DOMAIN AND INTENSITY
 ===================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778101.svg)](https://doi.org/10.5281/zenodo.6778101)
 
 Figure number: Figure 3.17
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
